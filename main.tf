@@ -1,7 +1,7 @@
 variable "hello" {
-  description  = "Hello Message"
-  type         = string
-  default      = "Hello from suryaa"
+  description = "Hello Message"
+  type        = string
+  default     = "Hello from suryaa"
 }
 
 output "display" {
